@@ -1,0 +1,9 @@
+.contentAbout {
+    text-align: left;
+    justify-items: left;
+    margin: 15px;
+}
+
+.doneToDo {
+    text-decoration: line-through;
+}

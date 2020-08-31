@@ -1,0 +1,9 @@
+.menu {
+    position: sticky;
+    top: 0;
+    background-color: blueviolet;
+    width: 100vw;
+    min-height: 50px;
+    z-index: 20;
+    margin-bottom: 5px
+}
